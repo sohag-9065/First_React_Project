@@ -3,7 +3,7 @@ import SelectedLaptop from '../SelectedLaptop/SelectedLaptop';
 import './Cart.css'
 
 const Cart = ({ cart , deleteToCart , removeOne , chooseOne }) => {
-    // console.log(cart);
+    
     return (
         <div className='cart'>
             <h2 className='cart-heading'>Selected Item</h2>
