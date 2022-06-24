@@ -60,9 +60,6 @@ const LaptopCorner = () => {
         setCart(newCart);
     }
 
-
-
-
     return (
         <div>
             <div className='shop-laptops-container'>
